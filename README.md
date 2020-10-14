@@ -1,2 +1,1 @@
-hoge
-Git練習中
+Git練習中  
