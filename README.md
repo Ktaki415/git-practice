@@ -1,1 +1,1 @@
-GitHub練習中  
+GitHub練習中
